@@ -1,1 +1,1 @@
-Ceci n'est pas un test du rebase
+Ceci n'est absolument pas un test du rebase
